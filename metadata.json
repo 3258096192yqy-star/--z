@@ -1,0 +1,5 @@
+{
+  "name": "简历制作器",
+  "description": "一个支持多模板、可编辑、可分页并导出为A4尺寸PDF的简历制作系统。",
+  "requestFramePermissions": []
+}
